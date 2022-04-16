@@ -1,0 +1,11 @@
+<tv>
+<channel id="1Sports.in">
+<display-name>1 Sports</display-name>
+<icon src="https://i.imgur.com/Gw4hwfC.png"/>
+<url>https://dishtv.in</url>
+</channel>
+
+<programme start="20220415183000 +0000" stop="20220415184500 +0000" channel="1Sports.in">
+<title lang="en">I League 2019 HLs</title>
+</programme>
+</tv>
