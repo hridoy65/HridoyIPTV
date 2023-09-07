@@ -1,12 +1,3 @@
-#EXTM3U
-#EXT-X-VERSION:3
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1024000,RESOLUTION=1280x720
-https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_bangla_576/zee_bangla_576.m3u8?bitrate=1000000&channel=zee_bangla_576&gp_id=
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=768000,RESOLUTION=854x480
-https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_bangla_320/zee_bangla_320.m3u8?bitrate=768000&channel=zee_bangla_320&gp_id=
-
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=512000,RESOLUTION=640x360
-https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/zee_bangla_160/zee_bangla_160.m3u8?bitrate=512000&channel=zee_bangla_160&gp_id=
-
-
+#EXTM3U url-tvg="http://example.com/epg.xml.gz"
+#EXTVLCOPT:http-cookie="Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1694196740:KeyName=prod_linear:Signature=aRO5tTYgQQVIamhuyi4AY0t8inqEvCbpY-x7i36VfG440IsOd4QgLxfjtnTfUw0vQdVAyjW-JpXd3bXU0y48Bg"
+https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
