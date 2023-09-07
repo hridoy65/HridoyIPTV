@@ -2,3 +2,7 @@
 #EXTINF:-1,Gazi TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://11plus.live/live/Gazi-TV/index.m3u8
+#EXTINF:-1,Zee Bangla
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1694196740:KeyName=prod_linear:Signature=aRO5tTYgQQVIamhuyi4AY0t8inqEvCbpY-x7i36VfG440IsOd4QgLxfjtnTfUw0vQdVAyjW-JpXd3bXU0y48Bg
+https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
