@@ -3,5 +3,5 @@
 #EXT-X-MEDIA-SEQUENCE:845748
 #EXT-X-TARGETDURATION:6
 #EXT-X-KEY:METHOD=AES-128,URI="/file.key",IV=0x00000000000000003131313131313131
-#EXTINF:6.000,
+#EXTINF:-1, Somoy
 https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8
